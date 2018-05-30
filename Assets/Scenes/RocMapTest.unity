@@ -451,12 +451,12 @@ Prefab:
         type: 2}
       propertyPath: _vectorData._layerProperty.vectorSubLayers.Array.data[0].materialOptions.materials.Array.data[0].Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: eafab4783c4094989a440d2284f7d203, type: 2}
+      objectReference: {fileID: 2100000, guid: 5cc6a7dc3df7cc84693bdde07669ab5b, type: 2}
     - target: {fileID: 114478715909612932, guid: e6b749c6d877f4c19a5a5c3c0783d53b,
         type: 2}
       propertyPath: _vectorData._layerProperty.vectorSubLayers.Array.data[0].materialOptions.materials.Array.data[1].Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: f585e1d7a595b4947a606c5217360c0d, type: 2}
+      objectReference: {fileID: 2100000, guid: 5cc6a7dc3df7cc84693bdde07669ab5b, type: 2}
     - target: {fileID: 114478715909612932, guid: e6b749c6d877f4c19a5a5c3c0783d53b,
         type: 2}
       propertyPath: _terrain._layerProperty.requiredOptions.addCollider

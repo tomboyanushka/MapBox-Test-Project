@@ -531,7 +531,19 @@
     <Compile Include="Assets\MapBoxAllFolders\UnityARKitPlugin\Plugins\iOS\UnityARKit\NativeInterface\UnityARSessionNativeInterface.cs" />
     <Compile Include="Assets\MapBoxAllFolders\UnityARKitPlugin\UnityARKitPluginSettings.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Scripts\CameraSwitcher.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\VCUL\Scripts\2D\FlyCamera2D.cs" />
+    <Compile Include="Assets\VCUL\Scripts\2D\MultiTargetCamera.cs" />
+    <Compile Include="Assets\VCUL\Scripts\2D\SmoothFollow2DCamera.cs" />
+    <Compile Include="Assets\VCUL\Scripts\3D\DragCamera.cs" />
+    <Compile Include="Assets\VCUL\Scripts\3D\FlyCamera.cs" />
+    <Compile Include="Assets\VCUL\Scripts\3D\MTPCamera.cs" />
+    <Compile Include="Assets\VCUL\Scripts\3D\OrbitCamera.cs" />
+    <Compile Include="Assets\VCUL\Scripts\3D\RPGCamera.cs" />
+    <Compile Include="Assets\VCUL\Scripts\3D\RTSCamera.cs" />
+    <Compile Include="Assets\VCUL\Scripts\3D\SmoothFollowCamera.cs" />
+    <None Include="Assets\Rune Assets\Simple\Urban Buildings Pack 1\runesimple.shader" />
     <None Include="Assets\FreeVoxelGirl\ReadMe.txt" />
     <None Include="Assets\MapBoxAllFolders\UnityARInterface\Examples\Common\Shaders\MobileOcclusion.shader" />
     <None Include="Assets\MapBoxAllFolders\Mapbox\Unity\Location\ExampleGpsTraces\driving_in_circles.txt" />
@@ -562,6 +574,7 @@
     <None Include="Assets\BOXOPHOBIC\Skybox Cubemap Extended\Shaders\Skybox Cubemap Extended.shader" />
     <None Include="Assets\MapBoxAllFolders\UnityARInterface\Examples\Common\Shaders\MobileARShadow.shader" />
     <None Include="Assets\MapBoxAllFolders\Mapbox\link.xml" />
+    <None Include="Assets\VCUL\Manual.txt" />
     <None Include="Assets\Resources\Mapbox\MapboxConfiguration.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>Z:/_IGME/Summer/_GeoGames/MapboxTest/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
