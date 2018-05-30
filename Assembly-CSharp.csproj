@@ -562,6 +562,7 @@
     <None Include="Assets\BOXOPHOBIC\Skybox Cubemap Extended\Shaders\Skybox Cubemap Extended.shader" />
     <None Include="Assets\MapBoxAllFolders\UnityARInterface\Examples\Common\Shaders\MobileARShadow.shader" />
     <None Include="Assets\MapBoxAllFolders\Mapbox\link.xml" />
+    <None Include="Assets\Resources\Mapbox\MapboxConfiguration.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>Z:/_IGME/Summer/_GeoGames/MapboxTest/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
