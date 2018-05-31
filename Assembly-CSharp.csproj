@@ -59,6 +59,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\3D Skybox\Scripts\Player.cs" />
+    <Compile Include="Assets\3D Skybox\Scripts\Skybox3DCamera.cs" />
     <Compile Include="Assets\MapBoxAllFolders\GoogleARCore\Examples\ComputerVision\Scripts\ComputerVisionController.cs" />
     <Compile Include="Assets\MapBoxAllFolders\GoogleARCore\Examples\ComputerVision\Scripts\EdgeDetector.cs" />
     <Compile Include="Assets\MapBoxAllFolders\GoogleARCore\Examples\ComputerVision\Scripts\TextureReader.cs" />
@@ -543,7 +545,6 @@
     <Compile Include="Assets\VCUL\Scripts\3D\RPGCamera.cs" />
     <Compile Include="Assets\VCUL\Scripts\3D\RTSCamera.cs" />
     <Compile Include="Assets\VCUL\Scripts\3D\SmoothFollowCamera.cs" />
-    <None Include="Assets\Rune Assets\Simple\Urban Buildings Pack 1\runesimple.shader" />
     <None Include="Assets\FreeVoxelGirl\ReadMe.txt" />
     <None Include="Assets\MapBoxAllFolders\UnityARInterface\Examples\Common\Shaders\MobileOcclusion.shader" />
     <None Include="Assets\MapBoxAllFolders\Mapbox\Unity\Location\ExampleGpsTraces\driving_in_circles.txt" />
