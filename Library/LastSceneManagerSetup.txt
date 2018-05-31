@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/TryingSomeStuff.unity
+- path: Assets/Scenes/RocMapTest.unity
   isLoaded: 1
   isActive: 1
