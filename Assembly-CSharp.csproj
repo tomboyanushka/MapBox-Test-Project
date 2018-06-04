@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{C79ECD27-087A-CFB6-44F3-0A1B80AB2146}</ProjectGuid>
+    <ProjectGuid>{5EBCA71C-59EB-DE9A-08CF-8CFC38E42DEA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -578,10 +578,10 @@
     <None Include="Assets\VCUL\Manual.txt" />
     <None Include="Assets\Resources\Mapbox\MapboxConfiguration.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>Z:/_IGME/Summer/_GeoGames/MapboxTest/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>Z:/_IGME/Summer/GeoGames/MapBox-Test-Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>Z:/_IGME/Summer/_GeoGames/MapboxTest/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>Z:/_IGME/Summer/GeoGames/MapBox-Test-Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -779,10 +779,10 @@
       <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Mapbox.IO.Compression">
-      <HintPath>Z:/_IGME/Summer/_GeoGames/MapboxTest/Assets/MapBoxAllFolders/Mapbox/Core/Plugins/ThirdParty/Mapbox.IO.Compression/net35/Mapbox.IO.Compression.dll</HintPath>
+      <HintPath>Z:/_IGME/Summer/GeoGames/MapBox-Test-Project/Assets/MapBoxAllFolders/Mapbox/Core/Plugins/ThirdParty/Mapbox.IO.Compression/net35/Mapbox.IO.Compression.dll</HintPath>
     </Reference>
     <Reference Include="Mapbox.Json">
-      <HintPath>Z:/_IGME/Summer/_GeoGames/MapboxTest/Assets/MapBoxAllFolders/Mapbox/Core/Plugins/ThirdParty/Mapbox.Json/Net35/Mapbox.Json.dll</HintPath>
+      <HintPath>Z:/_IGME/Summer/GeoGames/MapBox-Test-Project/Assets/MapBoxAllFolders/Mapbox/Core/Plugins/ThirdParty/Mapbox.Json/Net35/Mapbox.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/anush/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
@@ -823,7 +823,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{342D54CC-6A1B-FCD1-FA08-B26C3DC5F93B}</Project>
+      <Project>{A85EB6F2-E3F3-A9D0-6889-DB97C41E020B}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>
